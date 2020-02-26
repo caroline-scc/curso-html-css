@@ -1,4 +1,4 @@
-# curso html5 e css3
+# Curso Html5 E Css3
 O curso foi divido entre 5 módulos, sendo: <br>
 
 - Módulo I: Funcões básicas de html e css, onde foi aplicado as principais tags no corpo da página e entedendo os principais conceitos do mesmo;<br>
